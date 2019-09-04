@@ -64,7 +64,7 @@ You can [find out how to add a folder to your Path on this page](https://www.jav
 When writing packages for concrete5, you may require composer libraries.
 When using a composer-based concrete5 installation, this is not a problem, since composer will handle flawlessly your dependencies, and create an autoloader for you.
 
-Problems arise when your package is going to be installed without composer, and you need to provide the composer libraries togheter with your package.
+Problems arise when your package is going to be installed without composer, and you need to provide the composer libraries together with your package.
 
 For example, let's assume that you have in your package `composer.json` file these requirements:
 
